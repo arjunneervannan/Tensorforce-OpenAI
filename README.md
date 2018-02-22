@@ -27,5 +27,4 @@ You will need:
     howpublished={Web page},
     url = {https://github.com/reinforceio/tensorforce},
     year = {2017}
-
 }
