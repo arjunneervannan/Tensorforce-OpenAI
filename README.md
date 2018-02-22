@@ -22,9 +22,14 @@ You will need:
 
 ## Citations
 @misc{schaarschmidt2017tensorforce,
+    
     author = {Schaarschmidt, Michael and Kuhnle, Alexander and Fricke, Kai},
+    
     title = {TensorForce: A TensorFlow library for applied reinforcement learning},
+    
     howpublished={Web page},
+    
     url = {https://github.com/reinforceio/tensorforce},
+    
     year = {2017}
 }
