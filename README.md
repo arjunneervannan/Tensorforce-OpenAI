@@ -4,6 +4,8 @@ The code in this repository runs on the half-cheetah environment from openAI and
 
 Two separate programs, plot.py and average.py calculate and plot the average from the CSV files.
 
+See the video of the progress here: https://youtu.be/VK2rXLoEtW8.
+
 ## How to Run
 
 - Clone the repository
