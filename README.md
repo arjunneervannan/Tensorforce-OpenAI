@@ -6,6 +6,8 @@ Two separate programs, plot.py and average.py calculate and plot the average fro
 
 See the video of the progress here: https://youtu.be/VK2rXLoEtW8.
 
+**Read the paper that I wrote on this research topic here:** https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/6_4_02_Neervannan.pdf
+
 ## How to Run
 
 - Clone the repository
